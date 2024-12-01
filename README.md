@@ -4,7 +4,7 @@
 ## I'm a System Analyst student and fullstack developer.
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅.
+- 📚 I’m currently learning everything about frontend and backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Random facts: I love dogs and weightlifting. Having a healthy and balanced lifestyle is essential.
 
