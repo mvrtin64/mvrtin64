@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Martín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Fwc2xhMTFsZXRvOGE4cmM0YjM0cTZ1Z2Fra3BtMmd5MWY1dm96ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMnzoF2qdznMWzWE86/giphy.webp" width="35"</h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
-## I'm a System Analyst student and fullstack developer.
+## I'm a System Analyst and fullstack developer.
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, etc.
 - 📚 I’m currently learning everything about frontend and backend technologies.
